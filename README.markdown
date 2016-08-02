@@ -1,5 +1,5 @@
 ## ez-array
-##### this script simply provides an array from a given string of either characters or digits.
+##### This module simply provides an array from a given string of either characters or digits.
 ##### Return either a string array, number array or a mixed array. Your choice.
 
 ### Usage 
