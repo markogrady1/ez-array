@@ -1,0 +1,18 @@
+{
+  "name": "ez-array",
+  "description": "Create arrays the easy way.",
+  "main": "index.js",
+  "author": {
+    "name": "Mark O Grady"
+  },
+  "version": "0.1.0",
+  "keywords": [
+    "array",
+    "lazy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markogrady1/ez-array.git"
+  },
+  "license": "MIT"
+}
