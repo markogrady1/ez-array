@@ -2,9 +2,6 @@
 
 var easy;
 
-// this script simply returns an array from a given string of either characters or digits
-// returning either a string array, number array or a mixed array. Your choice.
-
 if (typeof exports != 'undefined' && !exports.nodeType) {
 	if (typeof module != 'undefined' && !module.nodeType && module.exports) {
         exports = module.exports = easy = {};
